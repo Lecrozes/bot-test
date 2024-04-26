@@ -1,0 +1,18 @@
+{
+  "name": "sophos-bot",
+  "version": "1.0.0",
+  "description": "A random fun bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/Bot.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "ts-lint": "^4.5.1",
+    "ts-node": "^10.4.0"
+  }
+}
